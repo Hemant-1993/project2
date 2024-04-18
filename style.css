@@ -1,0 +1,36 @@
+*{
+    background: black;
+    color: white;
+    margin: 20px;
+    
+}
+.container{
+    padding: 20px;
+}
+.top>h1{
+    font-size: 3em;
+}
+.middle{
+   font-size: 1em; 
+   font-weight: 100;
+   width: 240px;
+}
+.count{
+    border-bottom: 1px solid lightgray;
+    padding-bottom: 15px;
+}
+.error{
+    color: red;
+}
+.bottom>button{
+    padding: 10px;
+    background-color: white;
+    color: black;
+    width: 8vw;
+    font-weight: 400;
+}
+#clear{
+    background-color: black;
+    color: white;
+    border: 1px solid lightblue
+}
